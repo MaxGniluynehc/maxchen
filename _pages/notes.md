@@ -17,7 +17,7 @@ The followings are some notes that I wrote during my undergraduate study in Stat
 ## Intro to Statistics Theory  
 Taught by: Alex Stringer        
 Semester: Winter 2017          
-Notes: [STA261](https://maxgniluynehc.github.io/maxchen/_notes/STA261_Review.pdf)
+Notes: [STA261](https://maxgniluynehc.github.io/maxchen/studynotes/STA261_Review.pdf)
 
 --- 
 
@@ -27,22 +27,22 @@ The followings are some notes that I wrote during my master study in Statistics 
 ## Statistical Inference
 Taught by: Prof Julien Berestycki
 Semester: Fall 2020
-Notes: [Stat Inference](https://maxgniluynehc.github.io/maxchen/_notes/master_lec_notes/Stat_Inference_Review.pdf)
+Notes: [Stat Inference](https://maxgniluynehc.github.io/maxchen/studynotes/master_lec_notes/Stat_Inference_Review.pdf)
 
 ## Bayesian Analysis       
 Taught by: Prof. Geoff Nicholls        
 Semester: Winter 2021        
-Notes: [Bayes](https://maxgniluynehc.github.io/maxchen/_notes/master_lec_notes/Bayes_Method_Review.pdf)         
+Notes: [Bayes](https://maxgniluynehc.github.io/maxchen/studynotes/master_lec_notes/Bayes_Method_Review.pdf)         
 
 ## Computational Statistics      
 Taught by: Prof. Geoff Nicholls and Prof. Frank Windmeijer       
 Semester: Winter 2021     
-Notes: [Comp Stats](https://maxgniluynehc.github.io/maxchen/_notes/master_lec_notes/Comp_Stat_Review.pdf)       
+Notes: [Comp Stats](https://maxgniluynehc.github.io/maxchen/studynotes/master_lec_notes/Comp_Stat_Review.pdf)       
 
 ## Statistical Machine Learning and some Advanced Topics
 Taught by: Prof. Francois Caron and Prof Tom Rainforth      
 Semester: Winter 2021     
-Notes: [SML](https://maxgniluynehc.github.io/maxchen/_notes/master_lec_notes/SML_Models_Review.pdf)      
+Notes: [SML](https://maxgniluynehc.github.io/maxchen/studynotes/master_lec_notes/SML_Models_Review.pdf)      
 
 
 
