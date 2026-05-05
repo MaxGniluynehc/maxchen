@@ -33,7 +33,7 @@ proven track record in time management and teamwork in fast-paced environments.
 - 📄 **CV/Resume**: Please see [here](https://maxgniluynehc.github.io/maxchen/CV/CV_YulingMaxChen.pdf) for my updated CV.
 - 📚 **Study Notes**: See the [Notes](https://maxgniluynehc.github.io/maxchen/notes/) page for some useful study notes that I personally have taken advantages from.
 
-- check [this](https://maxgniluynehc.github.io/maxchen/notes/STA261_Review.pdf)
+- check [this](https://maxgniluynehc.github.io/maxchen/_notes/STA261_Review.pdf)
 
 
 <!-- ---
