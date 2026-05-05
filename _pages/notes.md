@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Notes"
-permalink: /notes/
+permalink: /maxchen/notes/
 author_profile: true
 ---
 
@@ -18,7 +18,6 @@ The followings are some notes that I wrote during my undergraduate study in Stat
 Taught by: Alex Stringer        
 Semester: Winter 2017          
 Notes: [STA261](https://maxgniluynehc.github.io/maxchen/notes/STA261_Review.pdf)
-
 
 --- 
 
