@@ -35,5 +35,5 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  # - title: "Let's connect"
-  #   url: /lets-connect/
+  - title: "Let's connect"
+    url: /lets-connect/
