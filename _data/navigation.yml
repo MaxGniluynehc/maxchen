@@ -1,3 +1,19 @@
+    *   **Goal**: Apply a specific edit ("SUGGESTED EDIT") to the provided "ORIGINAL CODE".
+    *   **Original Code**: A YAML configuration snippet (likely for a Jekyll theme like `al-folio`) defining website header links. It has comments and a list structure under the key `main:`.
+    *   **Suggested Edit**: A YAML list item `- title: "Let's connect"` with `url: /lets-connect/`.
+    *   **Constraints**: Output ONLY the code. No explanations. Preserve existing comments and structure unless modified by the edit.
+2.  **Analyze the Edit Location**:
+    *   The original code defines a list of navigation links.
+    *   The prompt implies "Adding" this link to the configuration. In YAML lists for navigation, items are typically appended to the end of the list.
+    *   The original code ends with a commented-out item (`Guide`).
+    *   To "apply" the edit means to insert this new YAML block into the list structure, effectively uncommenting it or adding it as a new active item at the bottom.
+3.  **Drafting the Modification**:
+    *   Keep all headers, comments, and existing `main` list items exactly as they are.
+    *   Append the new item `- title: "Let's connect"\n    url: /lets-connect/` after the last item in the list.
+4.  **Final Output Generation**:
+    *   Combine the original text with the new appended YAML block.
+
+
 # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
@@ -34,3 +50,7 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Let's connect"
+    url: /lets-connect/
+
