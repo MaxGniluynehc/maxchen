@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Personal Page of Max Chen"
+title: "Home Page of Max Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
