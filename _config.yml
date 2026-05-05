@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Max Chen"
 title_separator          : "-"
 name                     : &name "Max Chen"
 description              : &description "PhD in Statistics"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://maxchen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://MaxGniluynehc.github.io/maxchen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaxGniluynehc/maxchen.github.io"
