@@ -1,7 +1,8 @@
 ---
 title: "Let's connect"
-layout: page
-url: /lets-connect/
+layout: archive
+author_profile: true
+permalink: /lets-connect/
 ---
 
 <form action="https://formspree.io/f/xkoybner" method="POST">
